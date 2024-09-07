@@ -1,5 +1,5 @@
-### GET request to example server
-GET https://api.github.com/user/repos
-Authorization: token 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
+###GET request to example server
+//GET https://api.github.com/user/repos
+//Authorization: token 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
 
 ###
