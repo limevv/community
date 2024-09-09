@@ -6,10 +6,7 @@ import life.vvlime.community.dto.GithubUser;
 import okhttp3.*;
 import org.springframework.stereotype.Component;
 import java.io.IOException;
-import java.util.Collections;
-import java.util.concurrent.TimeUnit;
 
-import okhttp3.Protocol;
 
 @Component
 public class GithubProvider {

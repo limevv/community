@@ -29,5 +29,12 @@ public class GithubUser {
         this.node_id = node_id;
     }
 
-
+    @Override
+    public String toString() {
+        return "GithubUser{" +
+                "login='" + login + '\'' +
+                ", id=" + id +
+                ", node_id='" + node_id + '\'' +
+                '}';
+    }
 }
